@@ -135,7 +135,7 @@ Structured data, or schema markup, is code added to a website to help search eng
 
 ### Optimizing for Search Intent
 
-Understanding search intent is crucial for SEO. Search intent refers to the reason behind a user's search query—whether they are looking for information, making a purchase, or seeking a service. By analyzing search intent, you can create content that directly satisfies what users are looking for, improving your chances of ranking higher. Make sure your content is comprehensive, answers questions, and addresses the user's needs.
+Understanding search intent is crucial for SEO. Search intent refers to the reason behind a user's search query, whether they are looking for information, making a purchase, or seeking a service. By analyzing search intent, you can create content that directly satisfies what users are looking for, improving your chances of ranking higher. Make sure your content is comprehensive, answers questions, and addresses the user's needs.
 
 ### Using Data Analytics
 
@@ -149,7 +149,7 @@ Search engines constantly update their algorithms to provide users with the best
 
 ## Conclusion
 
-In conclusion, SEO is a powerful tool that can significantly impact a website’s visibility, user engagement, and overall success. By understanding and applying key SEO concepts—such as keywords, on-page and off-page optimization, technical SEO, and advanced strategies like link building and UX optimization—websites can improve their rankings and attract more organic traffic.
+In conclusion, SEO is a powerful tool that can significantly impact a website’s visibility, user engagement, and overall success. By understanding and applying key SEO concepts such as keywords, on-page and off-page optimization, technical SEO, and advanced strategies like link building and UX optimization, websites can improve their rankings and attract more organic traffic.
 
 SEO is an ongoing process that requires regular updates, monitoring, and adjustments. By staying informed about the latest SEO trends and best practices, you can ensure that your website remains competitive and continues to provide value to users.
 
@@ -159,7 +159,8 @@ We encourage you to contribute to this repository by sharing your insights, impr
 
 ## License
 
-This repository is licensed under an **All Rights Reserved** license. You may fork and use the code for personal, educational, and non-commercial purposes only. Modifying, distributing, or using the code for commercial purposes is strictly prohibited without explicit permission. Please refer to the [LICENSE](LICENSE) file for further details.
+This repository is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute the code, provided that the original copyright 
+notice and license text are included in all copies or substantial portions of the Software.
 
 ---
 
